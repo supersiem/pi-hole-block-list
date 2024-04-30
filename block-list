@@ -135325,8 +135325,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 google-analytics.com
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 ads.youtube.com
-192.168.68.109 webshop.telegraaf.nl
-
+0.0.0.0 pagead2.googlesyndication.com
 # End yoyo.org
 
 # blacklist
